@@ -1,5 +1,5 @@
-# CANADA-Dorm_Room_Light_System
-A smart and simple LED lighting system for any dorm room.
+# "CANADA" Dorm Room Light System
+A smart and simple LED lighting system for my dorm room at Canada, Technion.
 
 Based on an Arduino UNO board, the system lights up +300 WS1228B (NeoPixel) LEDs in various cool colors and animations. 15 animations are currently available, but more can be easily added. Brightness of LEDs is controlled via a potentiometer.
 
