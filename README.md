@@ -9,7 +9,7 @@ Finally, a magnetic switch attached to the door allows the LEDs to light up with
 
 A 4x4 keypad acts as main input and 16x2 LCD acts as system output.
 
-# The schematics
+## The schematics
 
 As you may have noticed, there are two versions of the circuit schematic.
 
